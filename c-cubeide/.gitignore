@@ -1,0 +1,6 @@
+Debug/
+Release/
+test_pid
+test_crc8
+*.o
+*.elf
